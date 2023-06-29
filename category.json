@@ -1,7 +1,7 @@
 {
-  "name": "Mel's Plugin Source",
+  "name": "Sample Plugin Source",
   "description": "Sample plugins to mess around with.",
-  "plugins_base_url": "https://github.com/bombsquad-community/sample-plugin-source/{content_type}/main/plugins",
+  "plugins_base_url": "https://github.com/bombsquad-community/sample-plugin-source/{content_type}/{tag}/plugins",
   "plugins": {
     "mels_sticky_bomb_recipe": {
       "description": "In the kitchen's crucible, where spices pirouette and blades do whisper, a treacherous liaison emerges, entwining culinary prowess with the volatile specter of explosive might.",
