@@ -32,6 +32,24 @@
           "md5sum": "d8a5906ddf8b438bd7e8c2918dd9aaff"
         }
       }
+    },
+    "experimental_cyborg": {
+      "description": "An ongoing effort by the Mad Scientist to create an ultimate war weapon in Bombsquad.",
+      "external_url": "",
+      "authors": [
+        {
+          "name": "Mad Scientist",
+          "email": "madscientist@example.com"
+        }
+      ],
+      "versions": {
+        "0.0.1": {
+          "api_version": 8,
+          "commit_sha": "e1635dae",
+          "released_on": "30-06-2023",
+          "md5sum": "8aec51e9ebfb58adaa6722418f1b9559"
+        }
+      }
     }
   }
 }
